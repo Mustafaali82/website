@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: arial;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+A{
+    text-decoration: none;
+}
+header{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+}
+header ul{
+list-style: none;
+display: flex;
+}
+#logo{
+  margin: 0 auto;
+}
+#menu li {
+    padding: 10px;
+}
+#social-links li{
+padding: 10px;
+}
+.services-container{
+    display: flex;
+}
+
+    
+    
